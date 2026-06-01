@@ -1,0 +1,7 @@
+[project]
+name = "agents-playground"
+version = "1.0.0"
+description = "Tinker around building AI agents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
